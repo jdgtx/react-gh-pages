@@ -1,0 +1,21 @@
+.header{
+    background-color: rgb(36, 36, 36);
+    color:#fff;
+    height:20vh;
+    line-height: 20vh;
+}
+
+.counterframe{
+    border:2px solid  rgb(36, 36, 36);
+    padding:2vh;
+    max-width:60vh;
+    min-width:40vh;
+    margin:4vh auto;
+    
+
+}
+
+.red{
+    color:red;
+    
+}
